@@ -1,0 +1,36 @@
+body{
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-color: white;
+    opacity: 50%;
+}
+
+h1{
+    font-size: 2.7cm;
+    font-weight: lighter;
+    padding-top: 3cm;    
+    padding-left: 7cm;
+}
+.history {
+    position: absolute;
+    top: 25px;
+    right: 10cm;
+    font-size: 18px;
+    font-family: fantasy;
+    font-style: italic;
+}
+.team {
+    position: absolute;
+    top: 25px;
+    right: 7cm;
+    font-size: 18px;
+    font-family: fantasy;
+    font-style: italic;
+}
+img {
+    position: absolute;
+    top: 15px;
+    left: 6cm;
+    border-radius: 50%;
+    height: 1cm;
+}
